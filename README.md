@@ -7,6 +7,6 @@ tsconfig.json => "outDir": "./"  => adicionar um diretorio dist
 
 
 para compilar, basta utilizar o comando
-npx tsc
+" npx tsc "
 ao executar esse comando o codigo typescript será compilado para javascript e enviado para a pasta dist
 
