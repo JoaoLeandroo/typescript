@@ -15,3 +15,14 @@ let filme: Array<string | number> = []
 
 filme.push("Vingadores")
 filme.push(22)
+
+const carros: string[][] = []
+carros.push(["aaaa"])
+carros.push(["sadasd"])
+console.log(carros)
+
+
+const times: string[] = []
+
+times.push(...["Palmeiras"], ...["Flamengo"])
+console.log(times)
