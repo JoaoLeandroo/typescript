@@ -5,3 +5,4 @@ let nome = 'Ola mundo';
 nome = 'Meu novo Mundo!';
 const numero = 7;
 let tipo = true;
+//# sourceMappingURL=tipos.js.map

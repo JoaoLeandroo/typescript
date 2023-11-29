@@ -11,3 +11,4 @@ objetoTwo = {
     teste2: '',
     teste3: ''
 };
+//# sourceMappingURL=objeto.js.map
